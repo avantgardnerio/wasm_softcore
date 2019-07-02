@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:47:09 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Tue Jul  2 11:13:37 2019
+# Process ID: 313
+# Current directory: /home/bgardner/workspace/wasm_softcore/wasm_softcore.runs/impl_1
+# Command line: vivado -log System_wrapper.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source System_wrapper.tcl -notrace
+# Log file: /home/bgardner/workspace/wasm_softcore/wasm_softcore.runs/impl_1/System_wrapper.vdi
+# Journal file: /home/bgardner/workspace/wasm_softcore/wasm_softcore.runs/impl_1/vivado.jou
+#-----------------------------------------------------------
+source System_wrapper.tcl -notrace
